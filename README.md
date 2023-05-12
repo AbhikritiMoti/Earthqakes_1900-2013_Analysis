@@ -13,7 +13,8 @@ The key questions for analysis are as follows:
 
 ## Dashboard
 
-![tableau_9JzY4gXGU4](https://github.com/AbhikritiMoti/Earthqakes_1900-2013_Analysis/assets/73769937/92eaa480-c93b-4c78-90d4-1da320e7c944)
+![dashboard](https://github.com/AbhikritiMoti/Earthqakes_1900-2013_Analysis/assets/73769937/3afda42d-eccb-4959-871b-bb5168c711b0)
+
 
 
 
