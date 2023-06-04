@@ -15,6 +15,7 @@ The key points for analysis are as follows:
 ## Interactive Dashboard in Tableau
 
 ![dashboard](https://github.com/AbhikritiMoti/Earthqakes_1900-2013_Analysis/assets/73769937/3afda42d-eccb-4959-871b-bb5168c711b0)
+*See on Tableau Public:* **[Dashboard](https://public.tableau.com/app/profile/abhikriti.moti3739/viz/Earthqakes_1900-2013_Analysis/Dashboard?publish=yes)**<br />
 
 
 
