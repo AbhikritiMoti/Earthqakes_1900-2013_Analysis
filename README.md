@@ -5,11 +5,11 @@ Earthquakes are one of the most significant natural hazards, causing loss of lif
 
 ## Analysis
 The key points for analysis are as follows:
-- What are the most frequently affected Earthquake zones?
+- Frequently Affected Earthquake Zones: Identifying Regions Prone to Seismic Activity
 - Total Earthquake by Year and Type
-- Frequency of Earthquakes by Month and Type
-- Earthquake Magnitude and Depth Distribution
-- Relationship Between Depth and Magnitude
+- Distribution of Earthquake Magnitudes and Depths
+- Frequency of Earthquakes by Month and Earthquake Type Distribution
+- Understanding the Relationship between Earthquake Depth and Magnitude
 
 
 ## Interactive Dashboard in Tableau
